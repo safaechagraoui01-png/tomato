@@ -7,4 +7,6 @@ dependencies:
  - pandas=2.2
  - matplotlib=3.10
  - ipykernel
+ - seaborn=0.13
+ 
  
